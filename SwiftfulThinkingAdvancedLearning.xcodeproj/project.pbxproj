@@ -227,9 +227,10 @@
 		029F8D8526D45815006039A7 /* SwiftfulThinkingAdvancedLearning */ = {
 			isa = PBXGroup;
 			children = (
+				029F8D8626D45816006039A7 /* SwiftfulThinkingAdvancedLearningApp.swift */,
+				02A85BEE2730AC3E005C8533 /* SwiftfulThinkingAdvancedLearning.entitlements */,
 				B9BAD3BB2BA1EDDC002C3D19 /* self */,
 				B9BAD3BA2BA1EDD4002C3D19 /* tut */,
-				029F8D8626D45816006039A7 /* SwiftfulThinkingAdvancedLearningApp.swift */,
 				029F8D8A26D45816006039A7 /* Assets.xcassets */,
 				029F8D8F26D45816006039A7 /* Info.plist */,
 				029F8D8C26D45816006039A7 /* Preview Content */,
@@ -302,7 +303,6 @@
 		B9BAD3BA2BA1EDD4002C3D19 /* tut */ = {
 			isa = PBXGroup;
 			children = (
-				02A85BEE2730AC3E005C8533 /* SwiftfulThinkingAdvancedLearning.entitlements */,
 				029F8D9526D45851006039A7 /* ViewModifierBootcamp.swift */,
 				029F8D9726D45DF5006039A7 /* ButtonStyleBootcamp.swift */,
 				029F8D9926D46632006039A7 /* AnyTransitionBootcamp.swift */,
@@ -565,6 +565,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z735PM5XVD;
 				INFOPLIST_FILE = SwiftfulThinkingAdvancedLearning_Tests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -585,6 +586,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z735PM5XVD;
 				INFOPLIST_FILE = SwiftfulThinkingAdvancedLearning_Tests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
