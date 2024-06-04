@@ -61,6 +61,7 @@
 		02EB4F5827320E6300CFCDF8 /* CloudKitCrudBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5727320E6300CFCDF8 /* CloudKitCrudBootcamp.swift */; };
 		02EB4F5C2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5B2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift */; };
 		02EB4F5E2734BF3E00CFCDF8 /* CloudKitUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5D2734BF3E00CFCDF8 /* CloudKitUtility.swift */; };
+		B95A9E322C0ECBA10096CAC7 /* DependencyInjectionB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B95A9E312C0ECBA10096CAC7 /* DependencyInjectionB.swift */; };
 		B9BAD3BD2BA1EDEC002C3D19 /* GenericsB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9BAD3BC2BA1EDEC002C3D19 /* GenericsB.swift */; };
 /* End PBXBuildFile section */
 
@@ -143,6 +144,7 @@
 		02EB4F5727320E6300CFCDF8 /* CloudKitCrudBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitCrudBootcamp.swift; sourceTree = "<group>"; };
 		02EB4F5B2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitPushNotificationBootcamp.swift; sourceTree = "<group>"; };
 		02EB4F5D2734BF3E00CFCDF8 /* CloudKitUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitUtility.swift; sourceTree = "<group>"; };
+		B95A9E312C0ECBA10096CAC7 /* DependencyInjectionB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjectionB.swift; sourceTree = "<group>"; };
 		B9BAD3BC2BA1EDEC002C3D19 /* GenericsB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericsB.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -340,6 +342,7 @@
 			isa = PBXGroup;
 			children = (
 				B9BAD3BC2BA1EDEC002C3D19 /* GenericsB.swift */,
+				B95A9E312C0ECBA10096CAC7 /* DependencyInjectionB.swift */,
 			);
 			path = self;
 			sourceTree = "<group>";
@@ -517,6 +520,7 @@
 				029F8E0126E98295006039A7 /* CustomNavView.swift in Sources */,
 				B9BAD3BD2BA1EDEC002C3D19 /* GenericsB.swift in Sources */,
 				029F8DFD26E97C66006039A7 /* CustomNavBarView.swift in Sources */,
+				B95A9E322C0ECBA10096CAC7 /* DependencyInjectionB.swift in Sources */,
 				029F8DD826DF2AA6006039A7 /* ViewBuilderBootcamp.swift in Sources */,
 				029F8DD626DF20B0006039A7 /* GenericsBootcamp.swift in Sources */,
 				02EA36AB272797F0005EE5EC /* FuturesBootcamp.swift in Sources */,
